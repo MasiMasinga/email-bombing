@@ -4,6 +4,6 @@ This snippet prompts the user to input the number of emails they want to send an
 
 
 ## Tips
-- Send messages in chunks smaller than 50 messages in a go to avoid server from timing out.
+- Send messages in chunks smaller than 50 messages at a go to avoid server from timing out.
 
 
