@@ -6,7 +6,7 @@ This snippet prompts the user to input the number of emails they want to send an
 
 1. clone the GitHub Repository `gh repo clone MasiMasinga/email-bombing`.
 
-2. install [Node.js v10.xx](https://nodejs.org/en/) on your local machine
+2. install [Node.js v18.xx](https://nodejs.org/en/) on your local machine
 
 3. open shell inside project
     * run ``npm install``
